@@ -1,2 +1,6 @@
 # WebMFileMove
-This is used to help properly place files for Content Warning.
+
+
+## How to Install
+- clone the repository `https://github.com/Delstroo/WebmFileMove.git`
+- run by opening in your code editor of choice and running `main.py`
